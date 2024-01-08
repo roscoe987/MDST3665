@@ -1,0 +1,20 @@
+<style>
+	header {
+		font-size: 25px;
+	} 
+	body { 
+		background-color: lightblue;
+		color: navy;
+		text-align: left;
+	} 
+	nav { 
+	} 
+	h1 {
+		text-align: left;
+		color: navy;
+	} 
+	ul { 
+		color: navy;
+		text-align: center;
+	}
+</style>
