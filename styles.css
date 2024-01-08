@@ -8,9 +8,11 @@
 		text-align: left;
 	} 
 	nav { 
+		color:navy;
 	} 
 	h1 {
 		text-align: left;
+		font-size: 25px;
 		color: navy;
 	} 
 	ul { 
