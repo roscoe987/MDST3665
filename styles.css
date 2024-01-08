@@ -27,9 +27,9 @@
 	  	text-align: center;
 	  	text-decoration: none;
 	  	cursor: pointer;
-	  	border: 2px solid #3498db;
-	  	color: #3498db;
-		background-color: #fff;
+	  	border: 2px solid navy;
+	  	color:lightblue;
+		background-color: navy;
 	  	border-radius: 5px;
 	  	transition: background-color 0.3s, color 0.3s, border-color 0.3s;
 	}
