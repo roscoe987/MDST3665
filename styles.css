@@ -19,6 +19,7 @@
 	ul { 
 		color: navy;
 		text-align: left;
+        font-size: 20px;
 	}
 	button {
 		display: inline-block;
