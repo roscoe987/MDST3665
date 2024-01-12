@@ -1,12 +1,8 @@
-
-	header {
-		font-size: 25px;
-	} 
 	body { 
 		background-color: lightblue;
 		color: navy;
 		text-align: left;
-        font-size: 20px;
+        	font-size: 20px;
 	} 
 	nav { 
 		color:navy;
